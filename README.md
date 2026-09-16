@@ -49,6 +49,7 @@ Geleneksel araç takip sistemleri devasa Excel tabloları üretirken, OptiFilo b
   <p><i>Filo genel durumu, anlık KPI sayaçları ve YZ destekli durum değerlendirmesi.</i></p>
 
   <br/>
+</div>
 
 ---
 
