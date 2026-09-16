@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/mainLogo.png" alt="OptiFilo Logo" width="120" />
+  <img src="assets/optilogo.png" alt="OptiFilo Logo" width="120" />
 
   # OptiFilo — Filo Verimlilik & Telematik Analiz Asistanı
   
@@ -41,31 +41,14 @@ Geleneksel araç takip sistemleri devasa Excel tabloları üretirken, OptiFilo b
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 📸 Ekran Görüntüsü
 
 <div align="center">
-  <h3>📊 1. Yönetici Kontrol Paneli (Executive Dashboard)</h3>
-  <img src="assets/screenshots/01_dashboard.png" alt="OptiFilo Dashboard" width="900" />
+  <h3>📊 Yönetici Kontrol Paneli (Executive Dashboard)</h3>
+  <img src="assets/optifilo.png" alt="OptiFilo Dashboard" width="900" />
   <p><i>Filo genel durumu, anlık KPI sayaçları ve YZ destekli durum değerlendirmesi.</i></p>
 
   <br/>
-
-  <h3>🤖 2. Makine Öğrenmesi & Anomali Analizi</h3>
-  <img src="assets/screenshots/02_ai_anomalies.png" alt="OptiFilo AI Anomalies" width="900" />
-  <p><i>Algoritma tarafından otomatik olarak işaretlenen verimsiz, aşırı rölantili ve sızıntı şüphesi taşıyan araçlar.</i></p>
-
-  <br/>
-
-  <h3>⛽ 3. Rölanti & Yakıt Optimizasyon Merkezi</h3>
-  <img src="assets/screenshots/03_fuel_idle_analysis.png" alt="Yakıt ve Rölanti Analizi" width="900" />
-  <p><i>Tüketim dağılımları, filo ortalamaları ve aşırı hız ihlalleriyle ilişkili trendler.</i></p>
-
-  <br/>
-
-  <h3>📄 4. Otomatik Yönetici PDF Raporlama Motoru</h3>
-  <img src="assets/screenshots/04_pdf_report_preview.png" alt="Yönetici Raporu" width="900" />
-  <p><i>ReportLab ve Matplotlib ile tamamen vektörel ve dinamik üretilen aylık faaliyet raporu.</i></p>
-</div>
 
 ---
 
